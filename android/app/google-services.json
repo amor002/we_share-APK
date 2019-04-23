@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437387622022",
+    "firebase_url": "https://weshare-efd31.firebaseio.com",
+    "project_id": "weshare-efd31",
+    "storage_bucket": "weshare-efd31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437387622022:android:167cea9446bfc6c9",
+        "android_client_info": {
+          "package_name": "com.amr.we_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437387622022-bs42u3jklr3f89ofnm7spbdhq7e352pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5f8leh90iQIjMGHcYbFWRy9-tZQadj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437387622022-bs42u3jklr3f89ofnm7spbdhq7e352pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
